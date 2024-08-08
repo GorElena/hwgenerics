@@ -32,8 +32,9 @@ public class AviaSouls {
         tickets = addToArray(tickets, ticket);
     }
 
-    // public Ticket[] findAll() {
-    //   return tickets;}
+    public Ticket[] findAll() {
+        return tickets;
+    }
 
     /**
      * Метод поиска билетов по маршруту

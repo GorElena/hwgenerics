@@ -24,8 +24,8 @@ public class Ticket implements Comparable<Ticket> {
     }
 
     //  public int getPrice() {
-    // return price;
-    //}
+    //return price;
+    // }
 
     public int getTimeFrom() {
         return timeFrom;
